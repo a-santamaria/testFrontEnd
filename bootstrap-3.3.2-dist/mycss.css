@@ -1,0 +1,29 @@
+ #header {
+        background-color:rgb(97, 97, 150);
+        color:white;
+        text-align:center;
+        padding:5px;
+        font-family: cursive;
+    }
+    #nav {
+        line-height:30px;
+        background-color:#eeeeee;
+        height:560px;
+        width:300px;
+        float:left;
+        padding:5px;      
+    }
+
+    #info {
+      text-align: center;
+      font-family: monospace;
+    }
+
+    #footer {
+        background-color:rgb(97, 97, 150);
+        color:white;
+        clear:both;
+        text-align:center;
+       padding:5px;  
+       font-family: cursive;
+    }
